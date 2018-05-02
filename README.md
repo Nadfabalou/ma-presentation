@@ -18,5 +18,6 @@
 
 
 <footer>
-  
+  <p> je suis très motivée pour cette formation
+  </p>
 </footer>
