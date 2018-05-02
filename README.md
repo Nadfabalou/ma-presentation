@@ -7,6 +7,8 @@
   <section>
     <p> Je suis une femme de 37 ans, maman d'un petit garçon de 4 ans. Je suis de formation horticole. J'ai travaillé pendant 10 ans dans ce domaine. Aujourd'hui je souhaite me réorienter dans un domaine qui recrute et qui me passionne, le développe web. 
       <a> https://www.facebook.com/nadia.pasquereau </a>
+      Passionnée par l'informatique j'ai eu une idée qui nécessite la création d'un site internet. Voulant changer de métier car dans l'horticulture c'est compliqué, je veux devenir développeur web pour d'une part créer mon site internet et en parallèle créer mon entreprise de développeur web pour aider les entreprises et les particuliers à faire leur propre site internet. L'idée est de lancer ma propre entreprise à terme mais j'aimerai de gagner de l'expérience en étant salariée pour une entreprise pour commencer.
+      j'aimerai obtenir un certificat ou un diplôme pour être reconnue dans le métier
    </p>
   </section>
 
@@ -21,3 +23,74 @@
   <p> je suis très motivée pour cette formation
   </p>
 </footer>
+
+<! Depuis février 2016
+-
+octobre 2016 à mars 2017
+-
+De janvier à mai 2016
+_
+
+De sept. 2009 à nov. 2015
+_
+
+
+De mai 2005 à sept. 2009
+_
+
+
+
+Février à juillet 2004
+_
+
+2002/2005
+
+Conseillère culinaire Tupperware
+
+Chargée de clientèle BNP PF – Armatis LC France (logiciels PCOM et Siclid)
+
+
+Coordinatrice de zone / management sur inventaire – IVALIS 
+
+
+Responsable du site horticole – Lycée agricole de Fondettes 
+2700m² de serres et tunnels
+-	Productions : plantes à massif, plants de légumes, gestion informatique (serres climatiques, caisse et commerce)
+-	Encadrement d’élèves de seconde à BTS
+
+Jardinier – Château du Rivau 
+Entretien du parc de 6 ha, responsable de la production des végétaux du parc (plantes de pépinière, plantes à massif, plants de légumes) et de la taille des 700 rosiers et des fruitiers
+
+Jardinier – Château de Villandry
+Entretien et plantation du parc de 4ha, production sous serre des plants pour le parc (plantes à massif, plants de légumes)
+
+Saisons : effleurage de maïs ; récolte de graines d’oignons, récolte et triage de pommes ; plantation de pépinière
+
+
+Mars 2018
+
+2016 - 2018
+
+
+
+2012
+
+2001
+
+1999
+Formation Visa Pro numérique (avancé) – CEFIM Tours (stage 40h) – Excel, Word, bureautique, réseaux sociaux…
+
+Formations OpenClassrooms : « Comprendre le web » ; « Apprenez à créer votre site web avec HTML5 et CSS3 » ; « Gérer son identité numérique » ; « Apprenez à coder avec JavaScript »…
+Formation Google : « Fondamentaux du Marketing Digital - Digital Active » 
+
+BTS Productions horticole (VAE) 
+
+Bac pro horticole productions florales et légumières – lycée agricole de Fondettes (37)
+
+BEPA horticole cultures sous abris – lycée horticole de St germain-en-Laye (78)
+
+
+Informatique
+Arts manuels, Bricolage
+Photographie
+Décoration intérieure
