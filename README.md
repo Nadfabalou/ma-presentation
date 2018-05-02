@@ -94,3 +94,41 @@ Informatique
 Arts manuels, Bricolage
 Photographie
 Décoration intérieure
+
+
+
+
+<html>   
+
+<head>
+  <meta charset="utf-8"/>
+  <title>mon cv</title> 
+</head>  
+<body>
+  <p><h1 font-family="arial">Aziz eljrifi</h1></p>
+   Etudiant de 2éme année du bacaloriat du sc et gestion comptable.<br/><br/>
+     <a href ="photo1.jpg"><img src="photo1.jpg"height="150" width="150" alt="mon photo"/></a>
+<h1> Mon expérience </h1>
+<ul>
+<li><b>De 2012 à 2013 </b>:fondateur du profeesionalisme.blogspot.com ,site de cours en ligne pour débutants.Animation le soir et le week-end en paralléle de mes études .
+</li>
+<li><b>De 2012 à 2013 </b>:création de simple IP , start-up éditrice du professionalisme.com en une marque unique et globale ......</li>
+</ul>
+<h1> Mes compétences </h1>
+<ul>
+<li> HTML5 et CSS3
+</li>
+<li>PHP (<a href ="professionalisme.com">certificat professionalisme</a>)</li>
+<li> SQL
+</li>
+<li> super Smash Bross (niveau expert)</li>
+<li> photoshop
+</li>
+</ul>
+<h1>Ma Formation </h1>
+<p><b>2013-2014 </b>: Diplôme Technicien Spécialisé en Système et Réseau Informatique, établissement privé MIAG KSAR EL KEBIR accrédité par l’etat</p>
+</body> 
+
+
+
+</html> 
