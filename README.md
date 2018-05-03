@@ -40,10 +40,7 @@ Décoration intérieure
   <title>mon cv</title> 
 </head>  
 <body>
-  <p><h1 font-family="arial"></h1></p>
-   
-    
-<h1> Mon expérience </h1>
+  <p><h1 font-family="arial"> Mon expérience </h1></p>
 <ul>
   <li><b> Depuis février 2016 </b> : Conseillère culinaire Tupperware
   </li>
@@ -76,6 +73,7 @@ Décoration intérieure
 </li>
 </ul>
 <h1>Ma Formation </h1>
+<ul>
   <li><b> Mars 2018 </b> : Formation Visa Pro numérique (avancé) au CEFIM de Tours (stage de 40h) - Excel, Word, bureautique, réseaux sociaux...
   </li>
   <li><b> 2016 - 2018 </b> : Formations / Moocs : 
@@ -89,6 +87,7 @@ Décoration intérieure
   </li>
   <li><b> 1999 </b> : BEPA horticole cultures sous abris
   </li>
+ </ul>
 </body> 
 
 
