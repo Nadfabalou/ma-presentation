@@ -25,16 +25,6 @@
 </footer>
 
 
-Formations OpenClassrooms : « Comprendre le web » ; « Apprenez à créer votre site web avec HTML5 et CSS3 » ; « Gérer son identité numérique » ; « Apprenez à coder avec JavaScript »…
-Formation Google : « Fondamentaux du Marketing Digital - Digital Active » 
-
-BTS Productions horticole (VAE) 
-
-Bac pro horticole productions florales et légumières – lycée agricole de Fondettes (37)
-
-BEPA horticole cultures sous abris – lycée horticole de St germain-en-Laye (78)
-
-
 Informatique
 Arts manuels, Bricolage
 Photographie
@@ -89,9 +79,15 @@ Décoration intérieure
   <li><b> Mars 2018 </b> : Formation Visa Pro numérique (avancé) au CEFIM de Tours (stage de 40h) - Excel, Word, bureautique, réseaux sociaux...
   </li>
   <li><b> 2016 - 2018 </b> : Formations / Moocs : 
-    <br/> - OpenClassrooms : « Comprendre le web » ; « Apprenez à créer votre site web avec HTML5 et CSS3 » ; « Gérer son identité numérique » ; « Apprenez à coder avec JavaScript »…
-Formation Google : « Fondamentaux du Marketing Digital - Digital Active » 
-
+    <br/> - OpenClassrooms : certificats de réussite : "Comprendre le web", "apprenez à naviguer en sécurité sur le web", "Protégez l'ensemble de vos données sur votre ordinateur" "Apprenez à créer votre site web avec HTML5 et CSS3", "Gérer son identité numérique", "Apprenez à coder avec JavaScript", "Devenez mentor sur OpenClassrooms", "travailler en mode collaboratif au quotidien", "repérer la résistance à la transformation digitale", "Comment le modèle économique des entreprises se bouleverse pour aller vers de nouveaux clients", "se mettre en posture de partage", "apprenez à lire un bulletin de paie"...
+    <br/> - OpenClassrooms, autres moocs : "Présentez des diaporamas avec PowerPoint", "Traitez des textes avec Word", "Analysez des données avec Excel", "Rédigez votre rapport de stage", "Quel parcours est fait pour vous ?", "Bonnes pratiques javascript", "[xAjax] Applications AJAX faciles avec PHP et xAjax !"...
+    <br/> - Google : "Fondamentaux du Marketing Digital - Digital Active" 
+  </li>
+  <li><b> 2012 </b> : BTS Productions horticoles VAE
+   </li>
+   <li><b> 2001 </b> : Bac Pro productions florales et légumières
+  </li>
+  <li><b> 1999 </b> : BEPA horticole cultures sous abris
   </li>
 </body> 
 
