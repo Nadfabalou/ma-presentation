@@ -40,9 +40,9 @@ Décoration intérieure
   <title>mon cv</title> 
 </head>  
 <body>
-  <p><h1 font-family="arial">Aziz eljrifi</h1></p>
-   Etudiant de 2éme année du bacaloriat du sc et gestion comptable.<br/><br/>
-     <a href ="photo1.jpg"><img src="photo1.jpg"height="150" width="150" alt="mon photo"/></a>
+  <p><h1 font-family="arial">Nadia Pasquereau</h1></p>
+   
+    
 <h1> Mon expérience </h1>
 <ul>
   <li><b> Depuis février 2016 </b> : Conseillère culinaire Tupperware
