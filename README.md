@@ -40,7 +40,7 @@ Décoration intérieure
   <title>mon cv</title> 
 </head>  
 <body>
-  <p><h1 font-family="arial">Nadia Pasquereau</h1></p>
+  <p><h1 font-family="arial"></h1></p>
    
     
 <h1> Mon expérience </h1>
