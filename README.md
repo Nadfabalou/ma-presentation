@@ -69,6 +69,8 @@ Décoration intérieure
      <a href ="photo1.jpg"><img src="photo1.jpg"height="150" width="150" alt="mon photo"/></a>
 <h1> Mon expérience </h1>
 <ul>
+  <li><b> depuis février 2016 </b> Conseillère culinaire Tupperware
+  </li>
   <li><b> octobre 2016 à mars 2017 </b> chargée de clientèle BNP PF (Cetelem) Armatis LC France. Logiciels PCOM et Siclid
   </li>
   <li><b> janvier à mai 2016 </b> Coordinatrice de zone / management sur inventaire (Ivalis)
