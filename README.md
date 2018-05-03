@@ -24,47 +24,6 @@
   </p>
 </footer>
 
-<! Depuis février 2016
--
-octobre 2016 à mars 2017
--
-De janvier à mai 2016
-_
-
-De sept. 2009 à nov. 2015
-_
-
-
-De mai 2005 à sept. 2009
-_
-
-
-
-Février à juillet 2004
-_
-
-2002/2005
-
-Conseillère culinaire Tupperware
-
-Chargée de clientèle BNP PF – Armatis LC France (logiciels PCOM et Siclid)
-
-
-Coordinatrice de zone / management sur inventaire – IVALIS 
-
-
-Responsable du site horticole – Lycée agricole de Fondettes 
-2700m² de serres et tunnels
--	Productions : plantes à massif, plants de légumes, gestion informatique (serres climatiques, caisse et commerce)
--	Encadrement d’élèves de seconde à BTS
-
-Jardinier – Château du Rivau 
-Entretien du parc de 6 ha, responsable de la production des végétaux du parc (plantes de pépinière, plantes à massif, plants de légumes) et de la taille des 700 rosiers et des fruitiers
-
-Jardinier – Château de Villandry
-Entretien et plantation du parc de 4ha, production sous serre des plants pour le parc (plantes à massif, plants de légumes)
-
-Saisons : effleurage de maïs ; récolte de graines d’oignons, récolte et triage de pommes ; plantation de pépinière
 
 
 Mars 2018
@@ -110,10 +69,23 @@ Décoration intérieure
      <a href ="photo1.jpg"><img src="photo1.jpg"height="150" width="150" alt="mon photo"/></a>
 <h1> Mon expérience </h1>
 <ul>
-<li><b>De 2012 à 2013 </b>:fondateur du profeesionalisme.blogspot.com ,site de cours en ligne pour débutants.Animation le soir et le week-end en paralléle de mes études .
-</li>
-<li><b>De 2012 à 2013 </b>:création de simple IP , start-up éditrice du professionalisme.com en une marque unique et globale ......</li>
+  <li><b> octobre 2016 à mars 2017 </b> chargée de clientèle BNP PF (Cetelem) Armatis LC France. Logiciels PCOM et Siclid
+  </li>
+  <li><b> janvier à mai 2016 </b> Coordinatrice de zone / management sur inventaire (Ivalis)
+  </li>
+  <li><b> septembre 2009 à novembre 2015 </b> Responsable du site horticole du lycée agricole de Fondettes (37230) : 2700m² des serres et tunnels informatisés. 
+    <br/> - Productions : plantes à massif, plants de légumes, gestion informatiques : serres climatiques (logiciel ARIA), caisse (logiciels la graine informatique Flow'one : approvisionnements, sorties, caisse...).          
+    <br/> - Encadrement des élèves de seconde à BTS + apprentis occasionnels (2 à 8 par semaine) 
+    <br/> - organisation du travail, approvisionnement, vente, comptabilité...
+  </li>
+  <li><b> mai 2005 à septembre 2009 </b> Jardinier au Château du Rivau (37120) : entretien du parc de 6ha, responsable de la production des végétaux du parc (plantes de pépinière, plantes à massif, plants de légumes...) et de la taille des 700 rosiers et des fruitiers.
+  </li>
+  <li><b> février à juillet 2004 </b> Jardinier au Château de Villandry (37510) : entretien et plantation du parc de 4ha, production sous serre des plants pour le parc (plantes à massif ornementales, plants de légumes)
+  </li>
+  <li><b>2002 / 2003 </b>:saisons : effleurage de maïs, récolte des graines d'oignons, récolte et trie des pommes, plantation de pépinière...
+  </li>
 </ul>
+
 <h1> Mes compétences </h1>
 <ul>
 <li> HTML5 et CSS3
