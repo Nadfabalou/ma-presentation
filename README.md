@@ -7,24 +7,9 @@
   <section>
     <h2>A propos de moi...</h2>
     <p> Je suis une femme de 37 ans, maman d'un petit garçon de 4 ans. Je suis de formation horticole. J'ai travaillé pendant 10 ans dans ce domaine. Aujourd'hui je souhaite me réorienter dans un domaine qui recrute et qui me passionne, le développe web. 
-      <br/> J'aime les loisirs créatifs, tout ce qui est travaux manuels. J'aime découvrir de nouvelles choses et j'adore apprendre. J'ai du mal à "ne rien faire" même si parfois ça fait du bien ! 
-      <br/> Je suis dynamique et autonome, j'ai de l'empathie pour les gens, j'ai une capacité à percevoir et identifier de manière relativement fiable les pensées et ressentis d'autres. 
-      
-      F L E X I B I L I T É • 5 5
-Tendance à rechercher activement et à explorer de nouvelles situations considérées comme sources
-de stimulations et de défis. Aptitude à apprendre de ses expériences nouvelles et à ajuster son
-comportement si nécessaire.
-S T A B I L I T É É M O T I O N N E L L E • 5 3
-Tendance à rester calme dans des situations stressantes. Capacité à gérer ses affects et à faire face
-aux situations imprévues et aux conflits interpersonnels.
-I N I T I A T I V E S O C I A L E • 4 3
-Tendance à se montrer proactif et prendre des initiatives dans des situations à composante
-relationnelle. Capacité à établir des contacts, maintenir les liens et élargir son réseau social.
-      
-      
-      
-      j'aime les challenges 
-     <br/> Passionnée par l'informatique depuis la première fois que j'ai touché un ordinateur, au collège, il y a quelques années, j'ai appris seule, à force de ténacité. Je suis obstinée et ne lâche rien tant que je n'ai pas réussi à faire ce que je veux. C'est ainsi que j'ai réussi à changer le disque dur de mon ordinateur portable et repartir de zéro, je n'avais pas pensé qu'il n'y avait rien sur ce nouveau disque... Mais j'ai réussi à y installer tout ce dont j'avais besoin et j'ai donné une seconde jeunesse à mon ordinateur !
+      <br/> J'aime les loisirs créatifs, tout ce qui est travaux manuels. J'aime découvrir de nouvelles choses et j'adore apprendre. J'ai du mal à "ne rien faire" même si parfois ça fait du bien ! j'aime rechercher activement et  explorer de nouvelles situations. J'ai des idées que j'aime partager et je vais toujours au bout des choses que j'entreprends. J'aime créer, surtout pour les autres. 
+      <br/> Je suis dynamique et autonome, j'ai de l'empathie pour les gens, j'ai une capacité à percevoir et identifier de manière relativement fiable les pensées et ressentis d'autres. Je sais rester calme dans des situations stressantes. Je sais gérer et faire face aux situations imprévues et aux conflits interpersonnels. Je sais prendre des initiatives.
+       <br/> Passionnée par l'informatique depuis la première fois que j'ai touché un ordinateur, au collège, il y a quelques années, j'ai appris seule, à force de ténacité. Je suis obstinée et ne lâche rien tant que je n'ai pas réussi à faire ce que je veux. C'est ainsi que j'ai réussi à changer le disque dur de mon ordinateur portable et repartir de zéro, je n'avais pas pensé qu'il n'y avait rien sur ce nouveau disque... Mais j'ai réussi à y installer tout ce dont j'avais besoin et j'ai donné une seconde jeunesse à mon ordinateur !
       <br/> J'ai choisi mon métier de base en horticulture car j'aimais les fleurs également. A l'époque il y avait un lycée spécialisé dans l'informatique et j'avais hésité à y entrer mais l'orientation vers le lycée agricole a été plus facile pour les personnes qui me suivaient. Mais ma passion de l'informatique n'a fait que d'évoluer surtout dans les différents métiers, dès que je touchais un ordinateur je savais que cette passion ne faisait que grandir. 
       <br/> Puis la passion pour l'informatique prend le dessus sur l'horticulture, suite à une fin de contrat compliqué, je décide de changer d'orientation professionnelle. Une reconversion dans ce domaine me paraît une évidence. 
       <br/> Dans les mêmes temps j'ai eu une idée <img src="https://user-images.githubusercontent.com/38813478/39634801-04bc1b56-4fbc-11e8-8ea3-08e349d084d2.jpg" width="15%"> suite aux attentats en France et pour aider les gens, je dois monter un site internet. J'ai exposé mon idée en détail à différentes personnes lors de salons de l'entreprise (CCI, avocat, banque, notaire...) qui l'ont trouvé judicieuse mais il en est ressorti qu'il fallait que je fasse moi-même ce fameux site pour avoir la main dessus et gérer de A à Z ce qu'il y a dessus. J'ai donc pris le temps de réflêchir. Je ne connais pas grand chose au développement web et je décide de prendre des cours en ligne. J'y passe du temps et j'aime ça. J'ai le déclic et je me dis qu'en parallèle de ce site internet que, malheureusement, je ne sais pas si je vais pouvoir gagner de l'argent avec, je veux devenir développeur web et travailler pour des entreprises qui ont besoin. C'est en plus un métier qui recrute. C'est pour celà que j'aimerai une certification et être reconnue dans ce métier. 
