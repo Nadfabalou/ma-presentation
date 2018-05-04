@@ -6,10 +6,11 @@
 <body>
   <section>
     <p> Je suis une femme de 37 ans, maman d'un petit garçon de 4 ans. Je suis de formation horticole. J'ai travaillé pendant 10 ans dans ce domaine. Aujourd'hui je souhaite me réorienter dans un domaine qui recrute et qui me passionne, le développe web. 
-      <a> https://www.facebook.com/nadia.pasquereau </a>
-      Passionnée par l'informatique j'ai eu une idée qui nécessite la création d'un site internet. Voulant changer de métier car dans l'horticulture c'est compliqué, je veux devenir développeur web pour d'une part créer mon site internet et en parallèle créer mon entreprise de développeur web pour aider les entreprises et les particuliers à faire leur propre site internet. L'idée est de lancer ma propre entreprise à terme mais j'aimerai de gagner de l'expérience en étant salariée pour une entreprise pour commencer.
-      j'aimerai obtenir un certificat ou un diplôme pour être reconnue dans le métier
-   </p>
+     <br/> Passionnée par l'informatique depuis la première fois que j'ai touché un ordinateur, au collège, il y a quelques années, j'ai appris seule, à force de ténacité. Je suis obstinée et ne lâche rien tant que je n'ai pas réussi à faire ce que je veux. C'est ainsi que j'ai réussi à changer le disque dur de mon ordinateur portable et repartir de zéro, je n'avais pas pensé qu'il n'y avait rien sur ce nouveau disque... Mais j'ai réussi à y installer tout ce dont j'avais besoin et j'ai donné une seconde jeunesse à mon ordinateur !
+      <br/> J'ai choisi mon métier de base en horticulture car j'aimais les fleurs également. A l'époque il y avait un lycée spécialisé dans l'informatique et j'avais hésité à y entrer mais l'orientation vers le lycée agricole a été plus facile pour les personnes qui me suivaient. Mais ma passion de l'informatique n'a fait que d'évoluer surtout dans les différents métiers, dès que je touchais un ordinateur je savais que cette passion ne faisait que grandir. 
+      <br/> Puis la passion pour l'informatique prend le dessus sur l'horticulture, suite à une fin de contrat compliqué, je décide de changer d'orientation professionnelle. Une reconversion dans ce domaine me paraît une évidence. 
+      <br/> Dans les mêmes temps j'ai eu une idée suite aux attentats en France et pour aider les gens, je dois monter un site internet. J'ai exposé mon idée en détail à différentes personnes lors de salons de l'entreprise (CCI, avocat, banque, notaire...) qui l'ont trouvé judicieuse mais il en est ressorti qu'il fallait que je fasse moi-même ce fameux site pour avoir la main dessus et gérer de A à Z ce qu'il y a dessus. J'ai donc pris le temps de réflêchir. Je ne connais pas grand chose au développement web et je décide de prendre des cours en ligne. J'y passe du temps et j'aime ça. J'ai le déclic et je me dis qu'en parallèle de ce site internet que, malheureusement, je ne sais pas si je vais pouvoir gagner de l'argent avec, je peux devenir développeur web et travailler pour des entreprises qui ont besoin. C'est en plus un métier qui recrute. C'est pour celà que j'aimerai une certification et être reconnue dans ce métier. 
+        </p>
   </section>
 
   <article>
@@ -37,18 +38,16 @@
 <ul>
   <li> <b>Informatique : </b> maîtrise du pack office (Word, Excel...), internet, réseaux sociaux, logiciels de caisse XL POS, gestion commerciale Flow'one, logiciel de gestion de serres bioclimatique ARIA, logiciels bancaires Pcom et Siclid. 
   </li> <b> gestion des approvisionnements : </b> suivi de l'état des stocks, identification des besoins en approvisionnement, contacts fournisseurs, devis et commandes, analyse du marché...
-  <li>
   <li> <b> Accueil et conseil clients : </b> appels entrants et sortants, écoute, réponse, mise en oeuvre des techniques de vente directe, fidélisation du client.
   </li>
-  <li>  <b> Vente : </b> ouverture et fermeture de caisse informatisée, enregistrement des ventes, comptbilité de fin de journée/fin de mois
+  <li>  <b> Vente : </b> ouverture et fermeture de caisse informatisée, enregistrement des ventes, comptbilité de fin de journée/fin de mois.
   </li>
-   <li> <b> Merchandising : </b> réception et gérer la marchandise, agencement et tenue de l'espace de vente, mise en avant des produits phares en fonction de l’état des stocks et de l’époque de l’année, création des étiquettes avec code-barres
+   <li> <b> Merchandising : </b> réception et gérer la marchandise, agencement et tenue de l'espace de vente, mise en avant des produits phares en fonction de l’état des stocks et de l’époque de l’année, création des étiquettes avec code-barres.
   </li>
    <li> <b> management : </b> en moyenne 6 personnes : plannings, organisation du travail,  mise en place d'objectifs, réunions de coordination avec les professeurs, rédaction de compte rendus de fin de stage.
   </li>
   <li> <b> Production : </b> mise en place (bouture, semis…) ; suivi technique et phytosanitaire, taille des arbres et des rosiers
   </li>
-</ul>
   
   <p><h1 font-family="arial"> Mon expérience </h1></p>
 <ul>
@@ -58,7 +57,7 @@
   </li>
   <li><b> De janvier à mai 2016 </b> : <em> Coordinatrice de zone / management sur inventaire </em> (Ivalis)
   </li>
-  <li><b> De septembre 2009 à novembre 2015 </b> : <em> Responsable du site horticole du lycée agricole de Fondettes </em> (37230) : 2700m² des serres et tunnels informatisés. 
+  <li><b> De septembre 2009 à novembre 2015 </b> : <em> Responsable du site horticole </em> du lycée agricole de Fondettes (37230) : 2700m² des serres et tunnels informatisés. 
     <br/> - Productions : plantes à massif, plants de légumes, gestion informatiques : serres climatiques (logiciel ARIA), caisse (logiciels la graine informatique Flow'one et XL POS : approvisionnements, sorties, caisse...).          
     <br/> - Encadrement des élèves de seconde à BTS + apprentis occasionnels (2 à 8 par semaine) 
     <br/> - organisation du travail, approvisionnement, vente, comptabilité...
@@ -88,7 +87,7 @@
   </li>
  </ul>
  
- <h1>Mes loisirs </h1>
+ <h1>Mes centres d'intérêt</h1>
    <ul>
   <li>Informatique
   </li>
