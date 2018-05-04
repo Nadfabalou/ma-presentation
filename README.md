@@ -87,29 +87,36 @@
     <a href="https://twitter.com/nadfabalou?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @nadfabalou</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
  
  <br/> linkedin <br/>
-     <script type="text/javascript" src="http://platform.linkedin.com/in.js"></script>
-    <script type="in/share" data-counter="top"></script>
-   <br/> Google + <br/>
-       <script src="https://apis.google.com/js/platform.js" async defer></script>
-  <g:plusone></g:plusone>
+    <script src="//platform.linkedin.com/in.js" type="text/javascript"> lang: fr_FR</script>
+<script type="IN/Share" data-url="https://www.linkedin.com/in/nadia-p-394bba66/"></script>
 
 <br/> Mon profil facebook <br/>
-       <html>
-
+   <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
 <title>Nouvelle page 2</title>
 </head>
-
 <body>
-
 <p>
 <a href="https://www.facebook.com/nadia.pasquereau">
 <img src="https://encrypted-tbn2.gstatic.com/images?q=tbn%3AANd9GcQYuCbsmPLvmpWObmvCFxckWSM7itG2h80chjRXuelSGTIIXvIl" style="width:100px;height:100px" data-height="100" data-width="100" class="uh_hi" id="rg_hi" alt="" height="100" width="100"></a></p>
-
 </body>
-
+  </html>
+ 
+ <br/> Ma page Facebook (pour mon activité de VDI)<br/>
+ <html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>Nouvelle page 2</title>
+</head>
+<body>
+<p>
+<a href="https://www.facebook.com/groups/1078988925574267/">
+<img src="https://encrypted-tbn2.gstatic.com/images?q=tbn%3AANd9GcQYuCbsmPLvmpWObmvCFxckWSM7itG2h80chjRXuelSGTIIXvIl" style="width:100px;height:100px" data-height="100" data-width="100" class="uh_hi" id="rg_hi" alt="" height="100" width="100"></a></p>
+</body>
 </html>
+  
+  
 </body> 
 
 
