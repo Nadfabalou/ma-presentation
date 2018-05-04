@@ -84,7 +84,9 @@
  
  <h1>Sur les réseaux sociaux...</h1>
  <ul>
- 
+     <a href="http://twitter.com/share" class="twitter-share-button" 
+      data-count="vertical" data-via="InfoWebMaster">Tweet</a>
+    <script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
  </ul>
 </body> 
 
