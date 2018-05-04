@@ -85,45 +85,23 @@
  <h1>Sur les réseaux sociaux...</h1>
  Twitter <br/>
     <a href="https://twitter.com/nadfabalou?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @nadfabalou</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+ 
  <br/> linkedin <br/>
      <script type="text/javascript" src="http://platform.linkedin.com/in.js"></script>
     <script type="in/share" data-counter="top"></script>
    <br/> Google + <br/>
        <script src="https://apis.google.com/js/platform.js" async defer></script>
   <g:plusone></g:plusone>
-    <br/> facebook <br/>
-       <html>
-       <head>
-  <title>Your Website Title</title>
-    <!-- You can use open graph tags to customize link previews.
-    Learn more: https://developers.facebook.com/docs/sharing/webmasters -->
-  <meta property="og:url"           content="https://www.your-domain.com/your-page.html" />
-  <meta property="og:type"          content="website" />
-  <meta property="og:title"         content="Your Website Title" />
-  <meta property="og:description"   content="Your description" />
-  <meta property="og:image"         content="https://www.your-domain.com/path/image.jpg" />
-</head>
-<body>
 
-  <!-- Load Facebook SDK for JavaScript -->
-  <div id="fb-root"></div>
-  <script>(function(d, s, id) {
-    var js, fjs = d.getElementsByTagName(s)[0];
-    if (d.getElementById(id)) return;
-    js = d.createElement(s); js.id = id;
-    js.src = "https://connect.facebook.net/en_US/sdk.js#xfbml=1";
-    fjs.parentNode.insertBefore(js, fjs);
-  }(document, 'script', 'facebook-jssdk'));</script>
-
-  <!-- Your like button code -->
-  <div class="fb-like" 
-    data-href="https://www.facebook.com/nadia.pasquereau" 
-    data-layout="standard" 
-    data-action="like" 
-    data-show-faces="true">
-  </div>
-
-</body>
+<br/> facebook <br/>
+       &lt;div id="fb-root"&gt;&lt;/div&gt;
+&lt;script&gt;(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/fr_FR/all.js#xfbml=1&amp;appId=109609109136303";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));&lt;/script&gt;
 </html>
 </body> 
 
