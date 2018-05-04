@@ -79,7 +79,7 @@
   </li>
   <li>Décoration intérieure
   </li>
-  <li>   cuisine
+  <li>   cuisine </br> <img src="https://user-images.githubusercontent.com/38813478/39637132-68ea8990-4fc2-11e8-807b-c7668c5c5301.jpg" width="15%"></img> 
   </li>
  </ul>
  
