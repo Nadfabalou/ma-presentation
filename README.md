@@ -83,12 +83,15 @@
  </ul>
  
  <h1>Sur les réseaux sociaux...</h1>
- Pour me laisser un message sur Twitter : <br/>
+ <ul>
+  <li>Pour me laisser un message sur Twitter : <br/>
     <a href="https://twitter.com/nadfabalou?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @nadfabalou</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
- <br/>
+  </li>
+ <li> Mon profil Likedin : <br/>
          <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="fr_FR" data-type="horizontal" data-theme="dark" data-vanity="nadia-p-394bba66"><a class="LI-simple-link" href='https://fr.linkedin.com/in/nadia-p-394bba66?trk=profile-badge'>Nadia P.</a></div>
-<br/> Mon profil facebook <br/>
+  </li>
+<li> Mon profil facebook <br/>
    <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
@@ -100,8 +103,8 @@
 <img src="https://encrypted-tbn2.gstatic.com/images?q=tbn%3AANd9GcQYuCbsmPLvmpWObmvCFxckWSM7itG2h80chjRXuelSGTIIXvIl" style="width:100px;height:100px" data-height="100" data-width="100" class="uh_hi" id="rg_hi" alt="" height="100" width="100"></a></p>
 </body>
   </html>
- 
- <br/> Groupe Facebook pour mon activité de VDI<br/>
+  </li>
+ <li> Groupe Facebook pour mon activité de VDI :<br/>
  <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
@@ -113,7 +116,7 @@
 <img src="https://encrypted-tbn2.gstatic.com/images?q=tbn%3AANd9GcQYuCbsmPLvmpWObmvCFxckWSM7itG2h80chjRXuelSGTIIXvIl" style="width:100px;height:100px" data-height="100" data-width="100" class="uh_hi" id="rg_hi" alt="" height="100" width="100"></a></p>
 </body>
 </html>
-  
+  </li> 
   
 </body> 
 
