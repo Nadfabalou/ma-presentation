@@ -1,1 +1,4 @@
 theme: cayman
+h1 {
+    text-align : center
+    }
