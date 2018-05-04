@@ -77,7 +77,9 @@
   </li>
   <li>Photographie / collages photos et vidéos
   </li>
-  <li>Décoration intérieure...
+  <li>Décoration intérieure
+  </li>
+  <li>   cuisine
   </li>
  </ul>
  
