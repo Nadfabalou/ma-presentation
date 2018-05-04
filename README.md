@@ -71,9 +71,9 @@
    <ul>
   <li>Informatique
   </li>
-  <li>Arts manuels / créatifs
+  <li>Arts manuels / créatifs <br/>
   </li>
-  <li>Bricolage / cartonnage
+  <li>Bricolage / cartonnage <br/> <img src="https://user-images.githubusercontent.com/38813478/39637229-a93d3e02-4fc2-11e8-8a39-93d58a21bec2.jpg" width="15%"></img> 
   </li>
   <li>Photographie / collages photos et vidéos <br/> <img src="https://user-images.githubusercontent.com/38813478/39636613-12b63886-4fc1-11e8-9af6-bb72d661c18d.jpg" width="15%"></img> 
   </li>
