@@ -24,15 +24,7 @@
   </p>
 </footer>
 
-
-Informatique
-Arts manuels, Bricolage
-Photographie
-Décoration intérieure
-
-
-
-
+*****
 <html>   
 
 <head>
@@ -40,8 +32,20 @@ Décoration intérieure
   <title>mon cv</title> 
 </head>  
 <body>
-  <p><h1 font-family="arial"> Mon expérience </h1></p>
+  <h1> Mes compétences </h1>
 <ul>
+<li> HTML5 et CSS3
+</li>
+<li>PHP (<a href ="professionalisme.com">certificat professionalisme</a>)</li>
+<li> SQL
+</li>
+<li> super Smash Bross (niveau expert)</li>
+<li> photoshop
+</li>
+</ul>
+  
+  <p><h1 font-family="arial"> Mon expérience </h1></p>
+<ol>
   <li><b> Depuis février 2016 </b> : Conseillère culinaire Tupperware
   </li>
   <li><b> D'octobre 2016 à mars 2017 </b> : Chargée de clientèle BNP PF (Cetelem) Armatis LC France. Logiciels PCOM et Siclid
@@ -59,21 +63,10 @@ Décoration intérieure
   </li>
   <li><b> En 2002 et 2003 </b> : "Saisons" : effleurage de maïs, récolte des graines d'oignons, récolte et trie des pommes, plantation de pépinière...
   </li>
-</ul>
+</ol>
 
-<h1> Mes compétences </h1>
-<ul>
-<li> HTML5 et CSS3
-</li>
-<li>PHP (<a href ="professionalisme.com">certificat professionalisme</a>)</li>
-<li> SQL
-</li>
-<li> super Smash Bross (niveau expert)</li>
-<li> photoshop
-</li>
-</ul>
 <h1>Ma Formation </h1>
-<ul>
+<ol>
   <li><b> Mars 2018 </b> : Formation Visa Pro numérique (avancé) au CEFIM de Tours (stage de 40h) - Excel, Word, bureautique, réseaux sociaux...
   </li>
   <li><b> 2016 - 2018 </b> : Formations / Moocs : 
@@ -86,6 +79,19 @@ Décoration intérieure
    <li><b> 2001 </b> : Bac Pro productions florales et légumières
   </li>
   <li><b> 1999 </b> : BEPA horticole cultures sous abris
+  </li>
+ </ol>
+ <h1>Ma Formation </h1>
+   <ul>
+  <li>Informatique
+  </li>
+  <li>Arts manuels
+  </li>
+  <li>Bricolage
+  </li>
+  <li>Photographie
+  </li>
+  <li>Décoration intérieure...
   </li>
  </ul>
 </body> 
