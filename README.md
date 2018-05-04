@@ -117,10 +117,5 @@
 <img src="https://encrypted-tbn2.gstatic.com/images?q=tbn%3AANd9GcQYuCbsmPLvmpWObmvCFxckWSM7itG2h80chjRXuelSGTIIXvIl" style="width:100px;height:100px" data-height="100" data-width="100" class="uh_hi" id="rg_hi" alt="" height="100" width="100"></a></p>
 </body>
 </html>
-  </li> </center>
+  </li> 
   
-</body> 
-
-
-
-</html> 
