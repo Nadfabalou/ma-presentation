@@ -94,14 +94,21 @@
   <g:plusone></g:plusone>
 
 <br/> facebook <br/>
-       &lt;div id="fb-root"&gt;&lt;/div&gt;
-&lt;script&gt;(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/fr_FR/all.js#xfbml=1&amp;appId=109609109136303";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));&lt;/script&gt;
+       <html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>Nouvelle page 2</title>
+</head>
+
+<body>
+
+<p>
+<a href="file:///C:/Mes%20Sites%20Web/monsiteweb2/index.htm">
+<img src="https://encrypted-tbn2.gstatic.com/images?q=tbn%3AANd9GcQYuCbsmPLvmpWObmvCFxckWSM7itG2h80chjRXuelSGTIIXvIl" style="width:225px;height:225px" data-height="225" data-width="225" class="uh_hi" id="rg_hi" alt="" height="225" width="225"></a></p>
+
+</body>
+
 </html>
 </body> 
 
