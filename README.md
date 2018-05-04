@@ -1,5 +1,5 @@
 <header>
-  <h1 font-family="arial_black" ; text-align="center"> Nadia Pasquereau </h1>
+  <h1 font-family="arial_black"></h1> <h1 text-align="center"> Nadia Pasquereau </h1>
   <h2 font-family="arial">  Future développeuse web </h2>
 </header>
 
