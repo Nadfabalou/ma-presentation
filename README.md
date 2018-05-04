@@ -75,7 +75,7 @@
   </li>
   <li>Bricolage / cartonnage
   </li>
-  <li>Photographie / collages photos et vidéos
+  <li>Photographie / collages photos et vidéos <br/> <img src="https://user-images.githubusercontent.com/38813478/39636613-12b63886-4fc1-11e8-9af6-bb72d661c18d.jpg" width="15%"></img> 
   </li>
   <li>Décoration intérieure
   </li>
