@@ -87,8 +87,7 @@
     <a href="https://twitter.com/nadfabalou?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @nadfabalou</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
  
  <br/> linkedin <br/>
-        <script type="text/javascript" src="https://www.linkedin.com/in/nadia-p-394bba66/"></script>
-    <script type="in/share" data-counter="top"></script>
+        <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 
 <br/> Mon profil facebook <br/>
    <html>
