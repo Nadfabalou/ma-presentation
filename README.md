@@ -46,39 +46,39 @@
   
   <p><h1 font-family="arial"> Mon expérience </h1></p>
 <ul>
-  <li><b> Depuis février 2016 </b> : <mark> Conseillère culinaire Tupperware </mark>
+  <li><b> Depuis février 2016 </b> : <em> Conseillère culinaire Tupperware </em>
   </li>
-  <li><b> D'octobre 2016 à mars 2017 </b> : Chargée de clientèle BNP PF (Cetelem) Armatis LC France. Logiciels PCOM et Siclid
+  <li><b> D'octobre 2016 à mars 2017 </b> : <em> Chargée de clientèle BNP PF </em> (Cetelem) Armatis LC France. Logiciels PCOM et Siclid
   </li>
-  <li><b> De janvier à mai 2016 </b> : Coordinatrice de zone / management sur inventaire (Ivalis)
+  <li><b> De janvier à mai 2016 </b> : <em> Coordinatrice de zone / management sur inventaire </em> (Ivalis)
   </li>
-  <li><b> De septembre 2009 à novembre 2015 </b> : Responsable du site horticole du lycée agricole de Fondettes (37230) : 2700m² des serres et tunnels informatisés. 
+  <li><b> De septembre 2009 à novembre 2015 </b> : <em> Responsable du site horticole du lycée agricole de Fondettes </em> (37230) : 2700m² des serres et tunnels informatisés. 
     <br/> - Productions : plantes à massif, plants de légumes, gestion informatiques : serres climatiques (logiciel ARIA), caisse (logiciels la graine informatique Flow'one : approvisionnements, sorties, caisse...).          
     <br/> - Encadrement des élèves de seconde à BTS + apprentis occasionnels (2 à 8 par semaine) 
     <br/> - organisation du travail, approvisionnement, vente, comptabilité...
   </li>
-  <li><b> De mai 2005 à septembre 2009 </b> : Jardinier au Château du Rivau (37120) : entretien du parc de 6ha, responsable de la production des végétaux du parc (plantes de pépinière, plantes à massif, plants de légumes...) et de la taille des 700 rosiers et des fruitiers.
+  <li><b> De mai 2005 à septembre 2009 </b> : <em> Jardinier au Château du Rivau </em> (37120) : entretien du parc de 6ha, responsable de la production des végétaux du parc (plantes de pépinière, plantes à massif, plants de légumes...) et de la taille des 700 rosiers et des fruitiers.
   </li>
-  <li><b> De février à juillet 2004 </b> : Jardinier au Château de Villandry (37510) : entretien et plantation du parc de 4ha, production sous serre des plants pour le parc (plantes à massif ornementales, plants de légumes)
+  <li><b> De février à juillet 2004 </b> : <em> Jardinier au Château de Villandry </em> (37510) : entretien et plantation du parc de 4ha, production sous serre des plants pour le parc (plantes à massif ornementales, plants de légumes)
   </li>
-  <li><b> En 2002 et 2003 </b> : "Saisons" : effleurage de maïs, récolte des graines d'oignons, récolte et trie des pommes, plantation de pépinière...
+  <li><b> En 2002 et 2003 </b> : <em> "Saisons" </em> : effleurage de maïs, récolte des graines d'oignons, récolte et trie des pommes, plantation de pépinière...
   </li>
 </ul>
 
 <h1>Ma Formation </h1>
 <ul>
-  <li><b> Mars 2018 </b> : Formation Visa Pro numérique (avancé) au CEFIM de Tours (stage de 40h) - Excel, Word, bureautique, réseaux sociaux...
+  <li><b> Mars 2018 </b> : <em> Formation Visa Pro numérique </em> (avancé) au CEFIM de Tours (stage de 40h) - Excel, Word, bureautique, réseaux sociaux...
   </li>
-  <li><b> 2016 - 2018 </b> : Formations / Moocs : 
+  <li><b> 2016 - 2018 </b> : <em> Formations / Moocs : </em>
     <br/> - OpenClassrooms : certificats de réussite : "Comprendre le web", "apprenez à naviguer en sécurité sur le web", "Protégez l'ensemble de vos données sur votre ordinateur" "Apprenez à créer votre site web avec HTML5 et CSS3", "Gérer son identité numérique", "Apprenez à coder avec JavaScript", "Devenez mentor sur OpenClassrooms", "travailler en mode collaboratif au quotidien", "repérer la résistance à la transformation digitale", "Comment le modèle économique des entreprises se bouleverse pour aller vers de nouveaux clients", "se mettre en posture de partage", "apprenez à lire un bulletin de paie"...
     <br/> - OpenClassrooms, autres moocs : "Présentez des diaporamas avec PowerPoint", "Traitez des textes avec Word", "Analysez des données avec Excel", "Rédigez votre rapport de stage", "Quel parcours est fait pour vous ?", "Bonnes pratiques javascript", "[xAjax] Applications AJAX faciles avec PHP et xAjax !"...
     <br/> - Google : "Fondamentaux du Marketing Digital - Digital Active" 
   </li>
-  <li><b> 2012 </b> : BTS Productions horticoles VAE
+  <li><b> 2012 </b> : <em> BTS Productions horticoles </em> VAE
    </li>
-   <li><b> 2001 </b> : Bac Pro productions florales et légumières
+   <li><b> 2001 </b> : <em> Bac Pro productions florales et légumières </em>
   </li>
-  <li><b> 1999 </b> : BEPA horticole cultures sous abris
+  <li><b> 1999 </b> : <em> BEPA horticole cultures sous abris </em>
   </li>
  </ul>
  
