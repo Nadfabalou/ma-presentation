@@ -15,7 +15,7 @@
       <br/> Dans les mêmes temps j'ai eu une idée <img src="https://user-images.githubusercontent.com/38813478/39634801-04bc1b56-4fbc-11e8-8ea3-08e349d084d2.jpg" width="15%"> suite aux attentats en France et pour aider les gens, je dois monter un site internet. J'ai exposé mon idée en détail à différentes personnes lors de salons de l'entreprise (CCI, avocat, banque, notaire...) qui l'ont trouvé judicieuse mais il en est ressorti qu'il fallait que je fasse moi-même ce fameux site pour avoir la main dessus et gérer de A à Z ce qu'il y a dessus. J'ai donc pris le temps de réflêchir. Je ne connais pas grand chose au développement web et je décide de prendre des cours en ligne. J'y passe du temps et j'aime ça. J'ai le déclic et je me dis qu'en parallèle de ce site internet que, malheureusement, je ne sais pas si je vais pouvoir gagner de l'argent avec, je veux devenir développeur web et travailler pour des entreprises qui ont besoin. C'est en plus un métier qui recrute. C'est pour celà que j'aimerai une certification et être reconnue dans ce métier. 
  <br/>Je suis très motivée pour cette formation. Je sais que j'apprends vite et j'irai au bout des choses. 
      </p>
-
+<br/>
   <h2> Mes compétences professionnelles </h2>
 <ul>
   <li> <b>Informatique : </b> maîtrise du pack office (Word, Excel...), internet, réseaux sociaux, logiciels de caisse XL POS, gestion commerciale Flow'one, logiciel de gestion de serres bioclimatique ARIA, logiciels bancaires Pcom et Siclid. 
