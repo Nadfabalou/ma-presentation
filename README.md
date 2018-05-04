@@ -45,8 +45,8 @@
 </ul>
   
   <p><h1 font-family="arial"> Mon expérience </h1></p>
-<ol>
-  <li><b> Depuis février 2016 </b> : Conseillère culinaire Tupperware
+<ul>
+  <li><b> Depuis février 2016 </b> : <mark> Conseillère culinaire Tupperware </mark>
   </li>
   <li><b> D'octobre 2016 à mars 2017 </b> : Chargée de clientèle BNP PF (Cetelem) Armatis LC France. Logiciels PCOM et Siclid
   </li>
@@ -63,10 +63,10 @@
   </li>
   <li><b> En 2002 et 2003 </b> : "Saisons" : effleurage de maïs, récolte des graines d'oignons, récolte et trie des pommes, plantation de pépinière...
   </li>
-</ol>
+</ul>
 
 <h1>Ma Formation </h1>
-<ol>
+<ul>
   <li><b> Mars 2018 </b> : Formation Visa Pro numérique (avancé) au CEFIM de Tours (stage de 40h) - Excel, Word, bureautique, réseaux sociaux...
   </li>
   <li><b> 2016 - 2018 </b> : Formations / Moocs : 
@@ -80,16 +80,17 @@
   </li>
   <li><b> 1999 </b> : BEPA horticole cultures sous abris
   </li>
- </ol>
- <h1>Ma Formation </h1>
+ </ul>
+ 
+ <h1>Mes loisirs </h1>
    <ul>
   <li>Informatique
   </li>
-  <li>Arts manuels
+  <li>Arts manuels / créatifs
   </li>
-  <li>Bricolage
+  <li>Bricolage / cartonnage
   </li>
-  <li>Photographie
+  <li>Photographie / collages photos et vidéos
   </li>
   <li>Décoration intérieure...
   </li>
