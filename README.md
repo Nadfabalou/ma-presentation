@@ -71,7 +71,7 @@
    <ul>
   <li>Informatique
   </li>
-  <li>Arts manuels / créatifs <br/>
+  <li>Arts manuels / créatifs <br/> <img src="https://user-images.githubusercontent.com/38813478/39637324-e85c3db8-4fc2-11e8-8cb7-ed6b7f3614ad.jpg" width="15%"></img> 
   </li>
   <li>Bricolage / cartonnage <br/> <img src="https://user-images.githubusercontent.com/38813478/39637229-a93d3e02-4fc2-11e8-8a39-93d58a21bec2.jpg" width="15%"></img> 
   </li>
