@@ -84,9 +84,7 @@
  
  <h1>Sur les réseaux sociaux...</h1>
  Twitter <br/>
-     <a href="http://twitter.com/share" class="twitter-share-button" 
-      data-count="vertical" data-via="nadfabalou">Tweet</a>
-    <script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+    <a href="https://twitter.com/nadfabalou?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @nadfabalou</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
  <br/> linkedin
      <script type="text/javascript" src="http://platform.linkedin.com/in.js"></script>
     <script type="in/share" data-counter="top"></script>
