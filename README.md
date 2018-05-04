@@ -20,7 +20,8 @@
 
 
 <footer>
-  <p> je suis très motivée pour cette formation
+  <p> je suis très motivée pour cette formation. Facilité d'apprentissage
+    PHP (<a href ="professionalisme.com">certificat professionalisme</a>)</li>
   </p>
 </footer>
 
@@ -32,16 +33,21 @@
   <title>mon cv</title> 
 </head>  
 <body>
-  <h1> Mes compétences </h1>
+  <h1> Mes compétences professionnelles </h1>
 <ul>
-<li> HTML5 et CSS3
-</li>
-<li>PHP (<a href ="professionalisme.com">certificat professionalisme</a>)</li>
-<li> SQL
-</li>
-<li> super Smash Bross (niveau expert)</li>
-<li> photoshop
-</li>
+  <li> <b>Informatique : </b> maîtrise du pack office (Word, Excel...), internet, réseaux sociaux, logiciels de caisse XL POS, gestion commerciale Flow'one, logiciel de gestion de serres bioclimatique ARIA, logiciels bancaires Pcom et Siclid. 
+  </li> <b> gestion des approvisionnements : </b> suivi de l'état des stocks, identification des besoins en approvisionnement, contacts fournisseurs, devis et commandes, analyse du marché...
+  <li>
+  <li> <b> Accueil et conseil clients : </b> appels entrants et sortants, écoute, réponse, mise en oeuvre des techniques de vente directe, fidélisation du client.
+  </li>
+  <li>  <b> Vente : </b> ouverture et fermeture de caisse informatisée, enregistrement des ventes, comptbilité de fin de journée/fin de mois
+  </li>
+   <li> <b> Merchandising : </b> réception et gérer la marchandise, agencement et tenue de l'espace de vente, mise en avant des produits phares en fonction de l’état des stocks et de l’époque de l’année, création des étiquettes avec code-barres
+  </li>
+   <li> <b> management : </b> en moyenne 6 personnes : plannings, organisation du travail,  mise en place d'objectifs, réunions de coordination avec les professeurs, rédaction de compte rendus de fin de stage.
+  </li>
+  <li> <b> Production : </b> mise en place (bouture, semis…) ; suivi technique et phytosanitaire, taille des arbres et des rosiers
+  </li>
 </ul>
   
   <p><h1 font-family="arial"> Mon expérience </h1></p>
@@ -53,7 +59,7 @@
   <li><b> De janvier à mai 2016 </b> : <em> Coordinatrice de zone / management sur inventaire </em> (Ivalis)
   </li>
   <li><b> De septembre 2009 à novembre 2015 </b> : <em> Responsable du site horticole du lycée agricole de Fondettes </em> (37230) : 2700m² des serres et tunnels informatisés. 
-    <br/> - Productions : plantes à massif, plants de légumes, gestion informatiques : serres climatiques (logiciel ARIA), caisse (logiciels la graine informatique Flow'one : approvisionnements, sorties, caisse...).          
+    <br/> - Productions : plantes à massif, plants de légumes, gestion informatiques : serres climatiques (logiciel ARIA), caisse (logiciels la graine informatique Flow'one et XL POS : approvisionnements, sorties, caisse...).          
     <br/> - Encadrement des élèves de seconde à BTS + apprentis occasionnels (2 à 8 par semaine) 
     <br/> - organisation du travail, approvisionnement, vente, comptabilité...
   </li>
