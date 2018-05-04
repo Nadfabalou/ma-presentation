@@ -83,11 +83,21 @@
  </ul>
  
  <h1>Sur les réseaux sociaux...</h1>
- <ul>
+ Twitter <br/>
      <a href="http://twitter.com/share" class="twitter-share-button" 
       data-count="vertical" data-via="nadfabalou">Tweet</a>
     <script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
- </ul>
+ <br/> linkedin
+     <script type="text/javascript" src="http://platform.linkedin.com/in.js"></script>
+    <script type="in/share" data-counter="top"></script>
+   <br/> Google +
+       <script type="text/javascript" src="https://apis.google.com/js/plusone.js">
+    {lang: 'fr'}
+    </script>
+    <g:plusone size="tall"></g:plusone>
+    <br/> facebook
+        <a name="fb_share" type="box_count" share_url="http://www.example.com/page.html"></a>
+    <script src="http://static.ak.fbcdn.net/connect.php/js/FB.Share" type="text/javascript"></script>
 </body> 
 
 
