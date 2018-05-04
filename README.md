@@ -1,11 +1,11 @@
 <header>
-  <h1> Nadia Pasquereau </h1>
-  <h2>  Future développeuse web </h2>
+  <h1 font-family="arial_black" text-align="center"> Nadia Pasquereau </h1>
+  <h2 font-family="arial">  Future développeuse web </h2>
 </header>
 
 <body>
   <section>
-    <h1>A propos de moi...</h1>
+    <h2>A propos de moi...</h2>
     <p> Je suis une femme de 37 ans, maman d'un petit garçon de 4 ans. Je suis de formation horticole. J'ai travaillé pendant 10 ans dans ce domaine. Aujourd'hui je souhaite me réorienter dans un domaine qui recrute et qui me passionne, le développe web. 
      <br/> Passionnée par l'informatique depuis la première fois que j'ai touché un ordinateur, au collège, il y a quelques années, j'ai appris seule, à force de ténacité. Je suis obstinée et ne lâche rien tant que je n'ai pas réussi à faire ce que je veux. C'est ainsi que j'ai réussi à changer le disque dur de mon ordinateur portable et repartir de zéro, je n'avais pas pensé qu'il n'y avait rien sur ce nouveau disque... Mais j'ai réussi à y installer tout ce dont j'avais besoin et j'ai donné une seconde jeunesse à mon ordinateur !
       <br/> J'ai choisi mon métier de base en horticulture car j'aimais les fleurs également. A l'époque il y avait un lycée spécialisé dans l'informatique et j'avais hésité à y entrer mais l'orientation vers le lycée agricole a été plus facile pour les personnes qui me suivaient. Mais ma passion de l'informatique n'a fait que d'évoluer surtout dans les différents métiers, dès que je touchais un ordinateur je savais que cette passion ne faisait que grandir. 
@@ -14,7 +14,7 @@
  <br/>Je suis très motivée pour cette formation. Je sais que j'apprends vite et j'irai au bout des choses. 
      </p>
 
-  <h1> Mes compétences professionnelles </h1>
+  <h2> Mes compétences professionnelles </h2>
 <ul>
   <li> <b>Informatique : </b> maîtrise du pack office (Word, Excel...), internet, réseaux sociaux, logiciels de caisse XL POS, gestion commerciale Flow'one, logiciel de gestion de serres bioclimatique ARIA, logiciels bancaires Pcom et Siclid. 
   </li> <b> gestion des approvisionnements : </b> suivi de l'état des stocks, identification des besoins en approvisionnement, contacts fournisseurs, devis et commandes, analyse du marché...
@@ -29,7 +29,7 @@
   <li> <b> Production : </b> mise en place (bouture, semis…) ; suivi technique et phytosanitaire, taille des arbres et des rosiers
   </li>
   
-  <p><h2 font-family="arial"> Mon expérience </h2></p>
+  <p><h2> Mon expérience </h2></p>
 <ul>
   <li><b> Depuis février 2016 </b> : <em> Conseillère culinaire Tupperware </em>
   </li>
