@@ -83,11 +83,10 @@
  </ul>
  
  <h1>Sur les réseaux sociaux...</h1>
- Twitter <br/>
+ Pour me laisser un message sur Twitter : <br/>
     <a href="https://twitter.com/nadfabalou?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @nadfabalou</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
- 
- <br/> linkedin <br/>
-        <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+ <br/>
+         <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="fr_FR" data-type="horizontal" data-theme="dark" data-vanity="nadia-p-394bba66"><a class="LI-simple-link" href='https://fr.linkedin.com/in/nadia-p-394bba66?trk=profile-badge'>Nadia P.</a></div>
 <br/> Mon profil facebook <br/>
    <html>
@@ -102,7 +101,7 @@
 </body>
   </html>
  
- <br/> Ma page Facebook (pour mon activité de VDI)<br/>
+ <br/> Groupe Facebook pour mon activité de VDI<br/>
  <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
