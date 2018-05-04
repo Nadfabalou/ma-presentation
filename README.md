@@ -29,7 +29,7 @@
   <li> <b> Production : </b> mise en place (bouture, semis…) ; suivi technique et phytosanitaire, taille des arbres et des rosiers
   </li>
   
-  <p><h1 font-family="arial"> Mon expérience </h1></p>
+  <p><h2 font-family="arial"> Mon expérience </h2></p>
 <ul>
   <li><b> Depuis février 2016 </b> : <em> Conseillère culinaire Tupperware </em>
   </li>
@@ -50,7 +50,7 @@
   </li>
 </ul>
 
-<h1>Ma Formation </h1>
+<h2>Ma Formation </h2>
 <ul>
   <li><b> Mars 2018 </b> : <em> Formation Visa Pro numérique </em> (avancé) au CEFIM de Tours (stage de 40h) - Excel, Word, bureautique, réseaux sociaux...
   </li>
@@ -67,7 +67,7 @@
   </li>
  </ul>
  
- <h1>Mes centres d'intérêt</h1>
+ <h2>Mes centres d'intérêt</h2>
    <ul>
   <li>Informatique
   </li>
@@ -83,7 +83,7 @@
   </li>
  </ul>
  
- <h1>Sur les réseaux sociaux...</h1>
+ <h2>Sur les réseaux sociaux...</h2>
  <ul>
   <li>Pour me laisser un message sur Twitter : <br/>
     <a href="https://twitter.com/nadfabalou?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @nadfabalou</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
