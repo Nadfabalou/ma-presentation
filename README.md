@@ -93,7 +93,7 @@
        <script src="https://apis.google.com/js/platform.js" async defer></script>
   <g:plusone></g:plusone>
 
-<br/> facebook <br/>
+<br/> Mon profil facebook <br/>
        <html>
 
 <head>
@@ -105,7 +105,7 @@
 
 <p>
 <a href="https://www.facebook.com/nadia.pasquereau">
-<img src="https://encrypted-tbn2.gstatic.com/images?q=tbn%3AANd9GcQYuCbsmPLvmpWObmvCFxckWSM7itG2h80chjRXuelSGTIIXvIl" style="width:225px;height:225px" data-height="225" data-width="225" class="uh_hi" id="rg_hi" alt="" height="225" width="225"></a></p>
+<img src="https://encrypted-tbn2.gstatic.com/images?q=tbn%3AANd9GcQYuCbsmPLvmpWObmvCFxckWSM7itG2h80chjRXuelSGTIIXvIl" style="width:100px;height:100px" data-height="100" data-width="100" class="uh_hi" id="rg_hi" alt="" height="100" width="100"></a></p>
 
 </body>
 
