@@ -92,7 +92,8 @@
        <script src="https://apis.google.com/js/platform.js" async defer></script>
   <g:plusone></g:plusone>
     <br/> facebook <br/>
-        <head>
+       <html>
+       <head>
   <title>Your Website Title</title>
     <!-- You can use open graph tags to customize link previews.
     Learn more: https://developers.facebook.com/docs/sharing/webmasters -->
@@ -123,6 +124,7 @@
   </div>
 
 </body>
+</html>
 </body> 
 
 
