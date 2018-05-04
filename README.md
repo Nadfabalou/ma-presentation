@@ -18,7 +18,7 @@
 <br/>
   <h2> Mes compétences professionnelles </h2>
 <ul>
-  <li> <b>Informatique : </b> maîtrise du pack office (Word, Excel...), internet, réseaux sociaux, logiciels de caisse XL POS, gestion commerciale Flow'one, logiciel de gestion de serres bioclimatique ARIA, logiciels bancaires Pcom et Siclid. 
+  <li> <b>Informatique : </b> maîtrise du pack office (Word, Excel...), internet, réseaux sociaux, logiciels de caisse XL POS, gestion commerciale Flow'one, logiciel de gestion de serres bioclimatique ARIA, logiciels bancaires Pcom et Siclid, développement web débutante, 
   </li> <b> gestion des approvisionnements : </b> suivi de l'état des stocks, identification des besoins en approvisionnement, contacts fournisseurs, devis et commandes, analyse du marché...
   <li> <b> Accueil et conseil clients : </b> appels entrants et sortants, écoute, réponse, mise en oeuvre des techniques de vente directe, fidélisation du client.
   </li>
